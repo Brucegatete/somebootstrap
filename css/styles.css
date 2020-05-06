@@ -51,3 +51,8 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+
+
+.spaced_label{
+    margin-left: 20px;
+}
